@@ -53,7 +53,6 @@ public class Post {
     public Instant getCreatedOn() {
         return createdOn;
     }
-
     public void setCreatedOn(Instant createdOn) {
         this.createdOn = createdOn;
     }
